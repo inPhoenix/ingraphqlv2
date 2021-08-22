@@ -4,7 +4,7 @@
 
 
 ## The stack
-- [ ] NodeJs
+- [ x ] NodeJs
 - [ ] react
 - [ ] apollo-server@2.25.2
 - [ ] apollo-server-express@2.25.2
