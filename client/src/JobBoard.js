@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { JobList } from './JobList';
-const { jobs } = require('./fake-data');
+import React, { Component } from "react"
+import { JobList } from "./JobList"
+const { jobs } = require("./fake-data")
 
 export class JobBoard extends Component {
   render() {
@@ -9,6 +9,6 @@ export class JobBoard extends Component {
         <h1 className="title">Job Board</h1>
         <JobList jobs={jobs} />
       </div>
-    );
+    )
   }
 }
