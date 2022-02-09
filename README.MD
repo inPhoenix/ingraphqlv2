@@ -8,5 +8,9 @@
 - [ ] react
 - [ ] apollo-server@2.25.2
 - [ ] apollo-server-express@2.25.2
+ 
+In Section 2, in the "Configuring Apollo Server with Express" lecture:
 
-BACK to life
+```javascript
+npm install apollo-server-express@^2.25.3 graphql@^15.7.2
+```
